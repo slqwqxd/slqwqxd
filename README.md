@@ -23,5 +23,4 @@ My nickname is **雫 slqwqxd**, I come from China.
 
 ## Status
 [![github stats](https://github-readme-stats.vercel.app/api?username=slqwqxd&show_icons=true)](https://github.com/slqwqxd)
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=slqwqxd&layout=compact)](https://github.com/slqwqxd)
 [![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slqwqxd&layout=compact)](https://github.com/slqwqxd)
